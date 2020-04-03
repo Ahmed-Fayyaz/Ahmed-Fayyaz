@@ -1,0 +1,32 @@
+{
+  "pageData": {
+    "accountId": "376863",
+    "accountName": "Mr Karl Norman\nCash Account: 2496601\nHIN: 0084112941"
+  },
+  "errorMessage": "",
+  "actionDetails": [
+    "Chrome Launch completed",
+    "Opened new page",
+    "Goto URL completed[https://www.cmcmarketsstockbroking.com.au/]",
+    "Found Field Login ID [.row #logonAccount]",
+    "Clicked on Login ID",
+    "Input for field Login ID completed",
+    "Found Field Password [.row #logonPassword]",
+    "Clicked on Password",
+    "Input for field Password completed",
+    "Found Field Login Button [.row #loginButton]",
+    "Clicked on Login Button",
+    "Found Field Account Menu [#navigation > div:nth-child(2) > a]",
+    "Clicked on Account Menu",
+    "IncludeOptionsAccountOnly undefined",
+    "Wait for field #TradingAccountsController > div > div:nth-child(4) > div.offset-top-10.content-min-height-500 > table > tbody > tr.ng-scope > td:nth-child(1) > a completed",
+    "About to read fields {\"actionType\":\"read\",\"isTable\":true,\"readFieldsList\":[{\"fieldName\":\"accountId\",\"selectorType\":\"queryselector\",\"selectorForRead\":\"#TradingAccountsController > div > div:nth-child(4) > div.offset-top-10.content-min-height-500 > table > tbody > tr.ng-scope > td:nth-child(1) > a\"},{\"fieldName\":\"accountName\",\"selectorType\":\"queryselector\",\"selectorForRead\":\"#TradingAccountsController > div > div:nth-child(4) > div.offset-top-10.content-min-height-500 > table > tbody > tr.ng-scope > td:nth-child(2)\"}]}",
+    "[CHROME] Request received to read 2 fields.",
+    "[CHROME] Reading field accountId",
+    "[CHROME] Found query selector: #TradingAccountsController > div > div:nth-child(4) > div.offset-top-10.content-min-height-500 > table > tbody > tr.ng-scope > td:nth-child(1) > a",
+    "[CHROME] Reading field accountName",
+    "[CHROME] Found query selector: #TradingAccountsController > div > div:nth-child(4) > div.offset-top-10.content-min-height-500 > table > tbody > tr.ng-scope > td:nth-child(2)",
+    "[CHROME] Fields received for read, returning results",
+    "Chrome Read finished "
+  ]
+}
